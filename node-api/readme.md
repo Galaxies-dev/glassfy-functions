@@ -1,7 +1,3 @@
-# Nodejs Express API Basics
+# Nodejs Express API 
 
-This code is part of the [Galaxies.dev Build & Deploy your own REST API with NodeJS and Express](https://galaxies.dev/node-express-api).
-
-[![Youtube](https://img.shields.io/static/v1?label=SimonGrimm&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)](https://www.youtube.com/@devsimon?sub_confirmation=1)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/schlimmson?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=schlimmson)
+A simple API to capture webhooks and store them in a local array.
